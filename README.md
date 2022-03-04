@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcverdoorn
+- 👋 Hi, I’m Marc Verdoorn
 - 👀 I’m interested in everything to do with technology
 - 🌱 I’m currently learning kotlin
 - 📫 How to reach me: marc.verdoorn@outlook.com
