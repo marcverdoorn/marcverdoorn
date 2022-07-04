@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marc Verdoorn
 - 👀 I’m interested in everything to do with technology
 - 🌱 I’m currently learning kotlin
-- 📫 How to reach me: marc.verdoorn@outlook.com
+- 📫 How to reach me: marc.verdoorn@gmail.com
 
 <!---
 marcverdoorn/marcverdoorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
