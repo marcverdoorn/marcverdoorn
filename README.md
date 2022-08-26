@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marc Verdoorn
 - 👀 I’m interested in everything to do with technology
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning kotlin and c++
 - 📫 How to reach me: marc.verdoorn@gmail.com
 
 <!---
