@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marc Verdoorn
 - 👀 I’m interested in everything related to technology
-- 🌱 I’m currently learning CIF3
+- 🌱 I’m currently learning C
 - 📫 How to reach me: marc.verdoorn@gmail.com
 
 <!---
